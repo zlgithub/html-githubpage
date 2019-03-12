@@ -27,10 +27,8 @@ header{
 }
 
 main{
-	padding: 10px 10px 10px 10px;
+	padding: 10px 10px 100px 10px;/*temp need footer height*/
 	margin: 0 auto;
-	height: 100%;
-	line-height: 100%;
 }
 
 footer{
@@ -40,7 +38,8 @@ footer{
 	
 	clear: both;
 	
-	position: absolute;/*temp*/
+	position: fixed;
+	
 	bottom: 0;
 	left: 0;
 	right: 0;
