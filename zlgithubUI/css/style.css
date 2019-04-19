@@ -92,6 +92,13 @@ header nav a{
 	cursor: pointer;
 }
 
+a
+{
+	color: #1e6bb8;
+	text-decoration: none;
+}
+	
+
 /*footer*/
 .footer-link{
 	margin: 10px;
